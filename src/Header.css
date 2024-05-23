@@ -1,0 +1,12 @@
+header {
+    background-color: #0077b6;
+    color: #fff;
+    margin: auto;
+    padding: 0;
+    width: 100%;
+}
+
+header h3 {
+    padding: 10px;
+    margin: auto;
+}

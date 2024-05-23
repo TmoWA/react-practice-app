@@ -1,2 +1,8 @@
-# react-practice-app
- This is a React practice project for personal experimentation. It is a single-page application with several tabs for selecting different sandwich ingredients that are then added to a list. However, it does not build a real sandwich for the user. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
